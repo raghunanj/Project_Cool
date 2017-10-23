@@ -1,2 +1,4 @@
 # Project_Cool
-Some project that i have been working on recently.
+A Face recognition app for the basic needs.
+
+More updates & code up on the repo soon.
